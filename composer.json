@@ -1,0 +1,11 @@
+{
+    "name": "ho3einfaramarzi/crypto-data",
+    "description": "All Crypto Data In One Package",
+    "autoload": {
+        "psr-4": {
+            "ho3einfaramarzi\\crypto-data\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
